@@ -1,0 +1,1 @@
+Ceci est un projet Jakarta EE fait dans le cadre du cours de Mr Grin, qui affiche la liste des clients d'une entreprise.
